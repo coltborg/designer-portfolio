@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Terra pectebant"
+title:  "Project 2"
 date:   2016-01-04 15:00:00 -0600
 categories: project
+featured_image: "images/project.png"
 tags: code inspiration
 ---
 
