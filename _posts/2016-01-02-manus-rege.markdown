@@ -3,6 +3,7 @@ layout: post
 title:  "Manus rege"
 date:   2016-01-02 14:00:00 -0600
 categories: jekyll update
+featured: true
 ---
 
 ## Anumque manuque tuorum ponit saxa mentisque cacumine
