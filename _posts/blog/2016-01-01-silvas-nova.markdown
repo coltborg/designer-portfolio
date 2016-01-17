@@ -2,7 +2,7 @@
 layout: post
 title:  "Silvas nova"
 date:   2016-01-01 09:55:38 -0600
-categories: jekyll update
+categories: blog
 featured: true
 tags: design
 ---

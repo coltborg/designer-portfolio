@@ -2,7 +2,7 @@
 layout: post
 title:  "Terra pectebant"
 date:   2016-01-04 15:00:00 -0600
-categories: jekyll update
+categories: blog
 tags: code inspiration
 ---
 
