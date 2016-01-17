@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Manus rege"
-date:   2016-01-17 14:00:00 -0600
+date:   2016-01-02 14:00:00 -0600
 categories: jekyll update
 ---
 

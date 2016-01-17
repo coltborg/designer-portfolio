@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Succincta et est est iungere"
-date:   2016-01-17 10:00:00 -0600
+date:   2016-01-03 10:00:00 -0600
 categories: jekyll update
 ---
 
